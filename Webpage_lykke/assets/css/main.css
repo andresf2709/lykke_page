@@ -2487,7 +2487,7 @@ input, select, textarea {
 	/* ----------------- creations for edit  ------------ */ 
 	#header{
 		margin: 0;
-		padding: 8rem 0;
+		padding: 5rem 0;
 	}
 	.LContaine_1{
 		display: flex;
@@ -2504,7 +2504,7 @@ input, select, textarea {
 		font-size: 3rem;
 	}
 	.Lcont_1_1 h1{
-		font-size: 8rem;
+		font-size: 4rem;
 		font-family: "Raleway";
 		margin: 0;
 	}
@@ -2521,8 +2521,8 @@ input, select, textarea {
 	.button_1_2{
 		position: relative;
 		display: flex;
-		width: 280px;
-		height: 86px;
+		width: 180px;
+		height: 68px;
 		border: 1px solid #ffffff;
 		justify-content: center;
 		align-items: center;
@@ -2535,12 +2535,12 @@ input, select, textarea {
 	}
 	.Lcont_1_2 ion-icon{
 		margin-right: 8px;
-		font-size: 2rem;
+		font-size: 1.5rem;
 		position: relative;
 		
 	}
 	.Lcont_1_2 span{
-		font-size: 2rem;
+		font-size: 1.5rem;
 	}
 	.button_1_2:hover{
 		transition: all ease-in-out 0.2s;
@@ -2558,10 +2558,10 @@ input, select, textarea {
 	}
 	
 	.Lcont_1_3 img{
-		width: 300px;
+		width: 200px;
 	}
 	.Lcont_1_3 span{
-		font-size: 2.75rem;
+		font-size: 1.75rem;
 		font-family: "Comfortaa";
 	}
 	
@@ -2593,7 +2593,6 @@ input, select, textarea {
 	}
 
 	/* ------- section 3 ------------ */ 
-
 
 	.flexed, .featured{
 		display: flex;
