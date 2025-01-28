@@ -2505,7 +2505,6 @@ input, select, textarea {
 	}
 	.Lcont_1_1 h1{
 		font-size: 4rem;
-		margin-top: 4rem;
 		font-family: "Raleway";
 	}
 	.Lcontaine_2{
@@ -2731,6 +2730,7 @@ input, select, textarea {
 	}
 	.Lcont_1_1 h1{
 		font-size: 2.5rem;
+		margin-top: 4rem;
 	}
 	.Lcontaine_2{
 		padding: 0;
