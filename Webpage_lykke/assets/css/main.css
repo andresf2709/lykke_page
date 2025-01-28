@@ -2506,6 +2506,7 @@ input, select, textarea {
 	.Lcont_1_1 h1{
 		font-size: 4rem;
 		font-family: "Raleway";
+		margin: 0;
 	}
 	.Lcontaine_2{
 		display: flex;
