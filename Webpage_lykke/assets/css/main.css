@@ -2605,6 +2605,13 @@ input, select, textarea {
 	}
 	.flexed .media_1{
 		width: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.flexed img{
+		width: 100%;
+	
 	}
 
 	/*    ---------- section 4 ------------- */ 
